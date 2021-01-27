@@ -1,0 +1,35 @@
+#footer {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  margin: 0;
+  padding: 20px 0;
+
+  .soc_icons {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+
+    li {
+      color: #333;
+      display: inline-block;
+      margin: 0 15px;
+      
+      a{
+        color: #333;
+
+        img {
+          width: 20px;
+          height: 20px;
+        }
+      }
+    }
+  }
+
+  .copyright {
+    text-align: center;
+    padding: 40px 0;
+    a {
+      display: inline-block;
+    }
+  }
+}
