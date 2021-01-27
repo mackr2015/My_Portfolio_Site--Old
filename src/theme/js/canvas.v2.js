@@ -1,4 +1,3 @@
-// https://www.youtube.com/watch?v=yq2au9EfeRQ&t=918s
 let canvas = document.getElementById('canvasBg'),
     context = canvas.getContext('2d'),
     heroSection = document.querySelector('.hero-section'),
