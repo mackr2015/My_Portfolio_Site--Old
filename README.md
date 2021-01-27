@@ -1,14 +1,13 @@
-#My Portfolio Site
-April 2019
+# My Portfolio Site
+
 [MackRaicevic.com](https://mackraicevic.com/)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Project built April 2019
 
+### Build & Structure
 
-#### Build & Structure
-
-- Run npm i to install node dependencies
+- Run npm install node dependencies
 ```bash
-npm i
+npm install
 ```
 
 - for local dev and live reload using Browser Sync run the default gulp command
