@@ -31,5 +31,13 @@
     a {
       display: inline-block;
     }
+
+    .logo {
+      font-weight: bold;
+      color: #10aed5;
+      span {
+        color: #10aed5;
+      }
+    }
   }
 }
