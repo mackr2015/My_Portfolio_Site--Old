@@ -22,3 +22,8 @@ src/theme/js/canvas.v2.js
 ```
 
 
+### Updates
+
+- make sure that you have gulp v4
+
+
